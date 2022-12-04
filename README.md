@@ -1,4 +1,4 @@
-## Steps to be JS (front-end, back-end, full-stack) developer
+## Steps to be software (front-end, back-end, full-stack) developer
 
 - Passos para ser um desenvolvedor JS (front-end, back-end, full-stack)
 - Abaixo eu fiz uma lista do que estudar seguindo um cronograma
