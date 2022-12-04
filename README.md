@@ -1,6 +1,6 @@
 ## Steps to be software (front-end, back-end, full-stack) developer
 
-- Passos para ser um desenvolvedor JS (front-end, back-end, full-stack)
+- Passos para ser um desenvolvedor (front-end, back-end, full-stack)
 - Abaixo eu fiz uma lista do que estudar seguindo um cronograma
 - Listei abaixo os cursos em sua maioria na plataforma da Alura por ser bem detalhada e diversificada, porém você pode usar cada tópico e procurar cursos na Udemy, Youtube ou em outras plataforma, blogs, etc.
 - Fique a vontade :)
@@ -21,19 +21,17 @@
 1. HTML5 e CSS3
 (https://www.alura.com.br/cursos-online-front-end/html-css)[https://www.alura.com.br/cursos-online-front-end/html-css]
 
-2. Git e Github
-(https://www.alura.com.br/curso-online-git-github-controle-de-versao)[https://www.alura.com.br/curso-online-git-github-controle-de-versao]
 
-3. JS
+2. JS
 (https://www.alura.com.br/cursos-online-front-end/javascript)[https://www.alura.com.br/cursos-online-front-end/javascript]
 
-4. React
+3. React
 (https://www.alura.com.br/cursos-online-front-end/reactjs)[https://www.alura.com.br/cursos-online-front-end/reactjs]
 
-5. Typescript
+4. Typescript
 (https://www.alura.com.br/formacao-typescript)[https://www.alura.com.br/formacao-typescript]
 
-6. A partir daqui você pode se dedicar aos items abaixo de preferência (Back-End, Devops, Testes)
+5. A partir daqui você pode se dedicar aos items abaixo de preferência (Back-End, Devops, Testes)
 
 
 ### Back-End
@@ -53,11 +51,14 @@
 
 ### Frameworks, Bibliotecas, SDK
 
-1. NextJS
+1. Git e Github
+(https://www.alura.com.br/curso-online-git-github-controle-de-versao)[https://www.alura.com.br/curso-online-git-github-controle-de-versao]
+
+2. NextJS
 
 (https://www.alura.com.br/formacao-next-js)[https://www.alura.com.br/formacao-next-js]
 
-2. React Testing Library
+3. React Testing Library
 
 Nessa etapa você pode pular para a seção de Testes listado abaixo 
 Link -> (https://testing-library.com/docs/react-testing-library/intro/)[https://testing-library.com/docs/react-testing-library/intro/]
